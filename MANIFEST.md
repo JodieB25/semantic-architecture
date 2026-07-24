@@ -1,0 +1,27 @@
+# Repository Manifest
+
+- `README.md`
+- `examples/README.md`
+- `glossary/README.md`
+- `governance/conformance.md`
+- `governance/normalization-register.md`
+- `governance/single-semantic-authority.md`
+- `governance/versioning-and-status.md`
+- `packages/EA-T01-enterprise/01-semantic-object.md`
+- `packages/EA-T01-enterprise/02-semantic-specification.md`
+- `packages/EA-T01-enterprise/03-knowledge-architecture.md`
+- `packages/EA-T01-enterprise/04-information-contract.md`
+- `packages/EA-T01-enterprise/05-information-acquisition-pattern.md`
+- `packages/EA-T01-enterprise/06-transformation-specification.md`
+- `packages/EA-T01-enterprise/07-canonical-output-specification.md`
+- `packages/EA-T01-enterprise/08-reference-prototype.md`
+- `packages/EA-T01-enterprise/README.md`
+- `packages/README.md`
+- `standards/01-semantic-object-standard/README.md`
+- `standards/02-semantic-specification-standard/README.md`
+- `standards/03-knowledge-architecture-standard/README.md`
+- `standards/04-information-contract-standard/README.md`
+- `standards/05-semantic-acquisition-standard/README.md`
+- `standards/06-semantic-compilation-standard/README.md`
+- `standards/07-canonical-output-standard/README.md`
+- `standards/README.md`
